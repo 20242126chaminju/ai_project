@@ -126,23 +126,6 @@ content_data = {
             "뚜뚜뚜.",
             "지진"
         ]
-    },
-    labels[3]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
-        ],
-        'texts': [
-            "장송의프리렌",
-            "판타지",
-            "안녕"
-        ]
     }
 }
 
