@@ -88,9 +88,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "명탐정코난",
-            "코난",
-            "유미란"
+            "스쿼트",
+            "ㅇㅇ",
+            "ㅇㅇ"
         ]
     },
     labels[1]: {
@@ -105,9 +105,9 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "봇치더락입니다.",
-            "외톨이",
-            "안녕"
+            "윗몸일으키기",
+            "ㅇㅇ",
+            "ㅇㅇ"
         ]
     },
     labels[2]: {
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "스즈매의 문단속",
+            "팔굽혀펴기",
             "뚜뚜뚜.",
             "지진"
         ]
