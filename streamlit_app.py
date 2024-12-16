@@ -78,53 +78,53 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/HBdMDvN/7.jpg",
+            "https://i.ibb.co/HBdMDvN/7.jpg",
+            "https://i.ibb.co/HBdMDvN/7.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=HTthpM84ILQ",
+            "https://www.youtube.com/watch?v=HTthpM84ILQ",
+            "https://www.youtube.com/watch?v=HTthpM84ILQ"
         ],
         'texts': [
             "스쿼트",
-            "ㅇㅇ",
-            "ㅇㅇ"
+            "스쿼트",
+            "스쿼트"
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/rpmF0ZZ/8.jpg",
+            "https://i.ibb.co/rpmF0ZZ/8.jpg",
+            "https://i.ibb.co/rpmF0ZZ/8.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=J_oESZVlIGY",
+            "https://www.youtube.com/watch?v=J_oESZVlIGY",
+            "https://www.youtube.com/watch?v=J_oESZVlIGY"
         ],
         'texts': [
             "윗몸일으키기",
-            "ㅇㅇ",
-            "ㅇㅇ"
+            "윗몸일으키기",
+            "윗몸일으키기"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/zR7JvZV/9.jpg",
+            "https://i.ibb.co/zR7JvZV/9.jpg",
+            "https://i.ibb.co/zR7JvZV/9.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=rek8fuV8LRY",
+            "https://www.youtube.com/watch?v=rek8fuV8LRY",
+            "https://www.youtube.com/watch?v=rek8fuV8LRY"
         ],
         'texts': [
             "팔굽혀펴기",
-            "뚜뚜뚜.",
-            "지진"
+            "팔굽혀펴기",
+            "팔굽혀펴기"
         ]
     }
 }
